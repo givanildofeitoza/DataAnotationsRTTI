@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/06/17 15:14:15.255,=C:\Users\IQ SISTEMAS\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/06/17 15:15:05.455,C:\givanildo\Projetos\DataAnnotationsDelphi\RTTICustomDataAnnotaions.pas=C:\Users\IQ SISTEMAS\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/06/17 15:15:05.455,C:\givanildo\Projetos\DataAnnotationsDelphi\RTTICustomDataAnnotaions.dfm=C:\Users\IQ SISTEMAS\Documents\RAD Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024/06/17 15:15:42.263,C:\givanildo\Projetos\DataAnnotationsDelphi\ProjectRTTIDataAnnotations.dproj=C:\Users\IQ SISTEMAS\Documents\RAD Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2024/06/17 15:16:54.372,=C:\givanildo\Projetos\DataAnnotationsDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/06/17 15:17:10.169,C:\givanildo\Projetos\DataAnnotationsDelphi\DataAnnotations\TDataAnnotations.pas=C:\givanildo\Projetos\DataAnnotationsDelphi\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
